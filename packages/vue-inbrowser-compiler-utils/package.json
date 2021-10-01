@@ -18,11 +18,11 @@
 		"acorn"
 	],
 	"dependencies": {
-		"camelcase": "^5.3.1"
+		"camelcase": "^6.0.0"
 	},
 	"devDependencies": {
-		"@rollup/plugin-commonjs": "15.1.0",
-		"@rollup/plugin-node-resolve": "9.0.0",
+		"@rollup/plugin-commonjs": "21.0.0",
+		"@rollup/plugin-node-resolve": "13.0.5",
 		"@types/domhandler": "2.4.2",
 		"rollup": "2.56.3",
 		"rollup-plugin-typescript2": "0.30.0",
